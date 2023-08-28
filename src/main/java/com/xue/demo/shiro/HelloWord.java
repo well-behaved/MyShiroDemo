@@ -1,2 +1,4 @@
-package com.xue.demo.shiro;public class HelloWord {
+package com.xue.demo.shiro;
+
+public class HelloWord {
 }
